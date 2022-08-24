@@ -43,6 +43,6 @@ $ wget http://bit.ly/2K1dhUb -O ~/.advance/rom/suprmrio.zip
 ```
 
 ## Buy Raspberry Pi and GPIO Starter Kit
-* [【Pi 4套餐B】Raspberry Pi 4 Model B/2G + SanDisk 32G microSD卡 + 官方原廠5.1V/3A電源](https://www.piepie.com.tw/31200/pi4b-2g-microsd-power-supply/)
+* [【Pi 4套餐B】Raspberry Pi 4 Model B/2G + SanDisk 32G microSD卡 + 官方原廠5.1V/3A電源](https://www.piepie.com.tw/31200/pi4b-2g-microsd-power-supply)
 * [GPIO Starter Kit](https://www.piepie.com.tw/2557/gpio-game-console-starter-kit)
 * [More...](https://www.piepie.com.tw/purchase)
