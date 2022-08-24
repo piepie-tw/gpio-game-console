@@ -1,7 +1,8 @@
 #!/usr/bin/python3
-#+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-#|R|a|s|p|b|e|r|r|y|P|i|.|c|o|m|.|t|w|
-#+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+#+-+-+-+-+-+-+-+-+-+-+-+-+-+
+#|P|i|e|P|i|e|.|c|o|m|.|t|w|
+#+-+-+-+-+-+-+-+-+-+-+-+-+-+
+# Copyright (c) 2022, piepie.com.tw
 #
 # photoresistor.py
 # Sense the light by photoresistor

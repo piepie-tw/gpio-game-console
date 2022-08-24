@@ -8,7 +8,7 @@ In this workshop, we will introudce the Raspberry Pi GPIO, including:
 2. How to write the code for the hardware specification
 3. Design a game console with simple hardware component
 
-The slide is available on [用Raspberry Pi學GPIO - 自己做遊戲機](https://www.slideshare.net/raspberrypi-tw/gpio-gameconsolestarterkit)
+The slide is available on [用Raspberry Pi學GPIO - 自己做遊戲機](https://speakerdeck.com/piepie_tw/raspberry-pi-gpio-game-console-starter-kit)
 
 
 ## Environment
